@@ -1,0 +1,6 @@
+{
+  // Silence VS Code CSS/SCSS/Less unknown at-rule warnings for Tailwind (@tailwind, @apply)
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "less.lint.unknownAtRules": "ignore"
+}
