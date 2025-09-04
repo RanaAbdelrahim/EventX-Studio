@@ -122,3 +122,5 @@ After the server seeds the database, you can log in with:
 5. Check browser console and server logs for errors
 
 Happy coding!
+
+HERE IS FRONTEND DEPLOYMENT : event-x-studio-nu.vercel.app
